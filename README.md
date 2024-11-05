@@ -1,3 +1,5 @@
+SOCIAL MEDIA USER CLASSIFICATION  
+
 In my project, I developed a Flask-based web application designed to classify social media users 
 from platforms like Instagram and Twitter into categories such as regular users, bots, influencers, 
 or fake accounts. The project starts with the user providing a social media profile URL as input. I 
